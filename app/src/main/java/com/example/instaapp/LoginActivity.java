@@ -1,4 +1,4 @@
-package com.example.instaapp;
+  package com.example.instaapp;
 
 import android.content.Intent;
 import android.os.Bundle;
